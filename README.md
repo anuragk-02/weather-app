@@ -1,1 +1,1 @@
-Live demo: (anuragk-02.github.io/weather-app)
+[Live demo](anuragk-02.github.io/weather-app)
